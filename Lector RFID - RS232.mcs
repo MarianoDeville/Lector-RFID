@@ -1,0 +1,12 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=D:\Hardware\CFPark\Pilar de abonados\SQX00341AG Lector tarjetas de proximidad\Software\Principal.obj
+Folder=Intermediary
+[File001]
+Location=D:\Hardware\CFPark\Pilar de abonados\SQX00341AG Lector tarjetas de proximidad\Software\Principal.cce
+Folder=Intermediary
+[File002]
+Location=Lector RFID - RS232.cof
+Folder=Output
